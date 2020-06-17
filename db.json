@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "Cursos": [
     {
       "id": 1,
-      "title": "hello"
+      "nombre": "Primero",
+      "numero": 1,
+      "letra": "A"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+ 
 }
