@@ -7,28 +7,28 @@
       "letra": "A"
     },  
       {
-      "id": 2,
-      "nombre": "Segundo",
-      "numero": 2,
-      "letra": "B"
+       "id": 2,
+       "nombre": "Segundo",
+       "numero": 2,
+       "letra": "B"
     },
       {
-      "id": 3,
-      "nombre": "Tercero",
-      "numero": 3,
-      "letra": "C"
+       "id": 3,
+       "nombre": "Tercero",
+       "numero": 3,
+       "letra": "C"
     },
       {
-      "id": 4,
-      "nombre": "Cuarto",
-      "numero": 4,
-      "letra": "B"
+       "id": 4,
+       "nombre": "Cuarto",
+       "numero": 4,
+       "letra": "B"
     },   
       {
-      "id": 5,
-      "nombre": "Cuarto",
-      "numero": 4,
-      "letra": "A"
+       "id": 5,
+       "nombre": "Cuarto",
+       "numero": 4,
+       "letra": "A"
     },
   ]
 }
