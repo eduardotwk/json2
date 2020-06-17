@@ -3,31 +3,31 @@
     {
       "id": 1,
       "nombre": "Primero",
-      "numero": 1,
+      "numero": "1",
       "letra": "A"
     },  
       {
        "id": 2,
        "nombre": "Segundo",
-       "numero": 2,
+       "numero": "2",
        "letra": "B"
     },
       {
        "id": 3,
        "nombre": "Tercero",
-       "numero": 3,
+       "numero": "3",
        "letra": "C"
     },
       {
        "id": 4,
        "nombre": "Cuarto",
-       "numero": 4,
+       "numero": "4",
        "letra": "B"
     },   
       {
        "id": 5,
        "nombre": "Cuarto",
-       "numero": 4,
+       "numero": "4",
        "letra": "A"
     },
   ]
