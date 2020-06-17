@@ -1,28 +1,11 @@
 {
-  "cursos": [
+  "posts": [
     {
       "id": 1,
-      "nombre": "primero",
-      "numero": 1,
-      "letra": "A",
-    },
-      {
-      "id": 2,
-      "nombre": "segundo",
-      "numero": 2,
-      "letra": "B",
-    },
-        {
-      "id": 3,
-      "nombre": "tercero",
-      "numero": 3,
-      "letra": "B",
-    },
-        {
-      "id": 4,
-      "nombre": "cuarto",
-      "numero": 4,
-      "letra": "A",
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
